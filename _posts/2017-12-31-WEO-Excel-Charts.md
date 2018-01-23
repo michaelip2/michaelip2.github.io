@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IMF World Economic Outlook Pivot Table and Charts using Excel
+title: IMF World Economic Outlook Pivot Tables and Charts using Excel
 date: 2017-12-31
 ---
 <p>Source: Delimited excel file "<a href="http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/WEOApr2017all.xls">By Countries</a>" found on the International Monetary Fund <a href="http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/download.aspx">website</a></p>
