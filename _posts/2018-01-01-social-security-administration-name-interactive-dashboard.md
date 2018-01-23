@@ -12,7 +12,7 @@ date: 2018-01-01
 <p><img src="https://raw.githubusercontent.com/michaelip2/michaelip2.github.io/master/images/1910%20-%202015%20female%20Name.gif" /></p>
 <p><strong>Male name trends from 1910 to 2015</strong>:</p>
 <p><img src="https://raw.githubusercontent.com/michaelip2/michaelip2.github.io/master/images/1910%20-%202015%20male%20Name.gif" /></p>
-<p><u>Hypothesizes conceived after seeing the animated name trends</u>:</p>
+<p><u>Questions conceived after seeing the animated name trends</u>:</p>
 <p>1) What internal or external factors affected the rise and fall of a name's popularity?</p>
 <p>An example being is the name Linda and Mary during the 1947 for which Linda became the most popular name with an 86% overall state coverage while the name Mary persists with a 14% overall state coverage as represented by seven states.</p>
 <p>Was there a cultural figure that influenced new and budding parents to consider Linda and Mary among the list of prospective names for their newborn?</p>
