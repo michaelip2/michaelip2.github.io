@@ -8,7 +8,6 @@ date: 2018-01-01
 <p>The top graph below denotes the total count of top name by state on the y-axis with the list of states and territories on the x-axis. The colors correlate to a specific name on the graph and on the geographical map and are not reused for the duration between the years 1910 to 2015. The color denotations correlate to the active gender filter and the composition, e.g., male, female, or both). As you may notice, the animated trends below reuse some colors as I animated the map by gender exclusivity, i.e., female or male, but not both at once.</p>
 <p>Example: The color green represents Helen and the female baby name was most popular in states Washington, South Dakota, Indiana, and Michigan with a recorded count of 156, 60, 249, and 368 respectively for 1910.</p>
 <p>Furthermore, I made a .gif to show the all correlative popularity changes of a name among several states and it was interesting to see name staples envelope large regions of the country and its inverse as the name staple becomes increasingly uncommon as years progress.</p>
-<p>&nbsp;</p>
 <p><strong>Female name trends from 1910 to 2015</strong>:</p>
 <p><img src="https://raw.githubusercontent.com/michaelip2/michaelip2.github.io/master/images/1910%20-%202015%20female%20Name.gif" /></p>
 <p><strong>Male name trends from 1910 to 2015</strong>:</p>
