@@ -6,7 +6,7 @@ date: 2018-01-01
 <p>This is a revisiting to one of my earlier projects using names from the Social Security Administration database but now you can interact by manipulating certain filters such as the year slider or searching for specific names, states, and gender.</p>
 <p>Link to my interactive Tableau workbook <a href="https://public.tableau.com/views/Book2_19285/Dashboard?:embed=y&amp;:display_count=yes&amp;publish=yes&amp;:toolbar=no">here</a>.</p>
 <p>The top graph below denotes the total count of top name by state on the y-axis with the list of states and territories on the x-axis. The colors correlate to a specific name on the graph and on the geographical map and are not reused for the duration between the years 1910 to 2015. The color denotations correlate to the active gender filter and the composition, e.g., male, female, or both. As you may notice, the animated trends below reuse the same colors as I animated the map by gender exclusivity, i.e., female or male, but not both at once.</p>
-<p><img src="https://raw.githubusercontent.com/michaelip2/michaelip2.github.io/master/images/1910%20female%20us.png" alt="" width="1711" height="1027" /></p>
+<p><img src="https://raw.githubusercontent.com/michaelip2/michaelip2.github.io/master/images/1910%20female%20us.png" width="1365" height="819" /></p>
 <p>Example: The color green represents Helen and during 1910 the female baby name was most popular amongst states such as Washington, South Dakota, Indiana, and Michigan with a recorded count of 156, 60, 249, and 368 respectively.</p>
 <p>Furthermore, I made a .gif to show the all correlative popularity changes of a name among several states and it was interesting to see name staples envelope large regions of the country and its inverse as the name staple becomes increasingly uncommon as years progress.</p>
 <p><strong>Female name trends from 1910 to 2015</strong>:</p>
@@ -16,7 +16,7 @@ date: 2018-01-01
 <p><u>Questions concieved after project</u>:</p>
 <p>1) What internal or external factors affected the rise and fall of a name's popularity?</p>
 <p>An example being is the name Linda and Mary during the 1947 for which Linda became the most popular name with an 86% overall state coverage while the name Mary persists with a 14% overall state coverage as represented by seven states.</p>
-<p><img src="https://raw.githubusercontent.com/michaelip2/michaelip2.github.io/master/images/1947%20female%20us.png" alt="" width="1713" height="1026" /></p>
+<p><img src="https://raw.githubusercontent.com/michaelip2/michaelip2.github.io/master/images/1947%20female%20us.png" width="1365" height="818" /></p>
 <p>Was there a prominent cultural figure that influenced new and budding parents to consider Linda and Mary among the list of prospective names for their newborn?</p>
 <p>Anecdotally I recalled reading this <a href="https://www.huffingtonpost.com/2015/04/08/game-of-thrones-baby-names_n_7018504.html">HuffPost article</a> from 2015 where the HBO's Game of Thrones' show rise to fame coincidentally resulted in 241 babies being named Khaleesi who is one of the pivotal female characters from the medieval fantasy drama. It is amazing and equally odd to witness how our daily hobbies and activities to a certain extent can influence the naming decision for a child.</p>
 <p>Another ancillary question to ask is could this behavior be attributed to how a name occasionally becomes popular in certain swaths or regions in a particular year?</p>
