@@ -20,9 +20,9 @@ date: 2018-01-01
 <p><u>Questions concieved after project</u>:</p>
 <p>1) What internal or external factors determine the rise and fall of a name's popularity?</p>
 <p>An example being are the names Linda and Mary during 1947 for which Linda became the most popular name with an 86% overall country coverage while the name Mary persists with a 14% overall country coverage as represented by the seven orange remaining states.</p>
+<p>Country coverage is what I referred to the ratio of tallied names per state distributed among the 51 states (i.e., Mary can be counted to be a top name for 7 states so we can do 7/51 = 0.137 %). Of course, this does not consider the population size for each respective state but this number merely stands for a tangible figure for easier comparison.</p>
 <p><img src="https://raw.githubusercontent.com/michaelip2/michaelip2.github.io/master/images/1947%20female%20us.png" /></p>
 <p>Was there a prominent cultural figure that influenced new and budding parents to consider Linda and Mary among the list of prospective names for their newborn?</p>
 <p>Anecdotally I recalled reading this <a href="https://www.huffingtonpost.com/2015/04/08/game-of-thrones-baby-names_n_7018504.html">HuffPost article</a> from 2015 where the HBO's Game of Thrones' meteoric rise to fame coincidentally resulted in 241 babies being named Khaleesi who is one of the pivotal female characters from the medieval fantasy drama. It is amazing and equally odd to witness how our daily hobbies and activities can influence the naming decision for a child.</p>
-<p>Another ancillary question to ask is could this behavior be attributed to how a name occasionally becomes popular in certain swaths or regions in a particular year?</p>
-<p>2) Can you discern someone's age or guess correctly within a range of years based on the person's birth state?</p>
-<p>Complete hypothetical: We can see that Mary was a popular name from 1910 to 1946 so then are you able to successfully assess the age of an elderly woman like one of your next-door neighbors or a friend's grandmother?</p>
+<p>Another interesting question to ponder is what type of influence or behavior is contributing to the wide acceptance of a baby name and how does a singular name or even groups of different names appear in small swaths of states and again in larger regions on the opposite side of the country?</p>
+<p>&nbsp;</p>
