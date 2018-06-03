@@ -24,5 +24,5 @@ END
 EXEC loanCalculator  @amt = 10000, @air = 6, @yr = 10;
 </code></pre>
 <p>Let us say we were determining a monthly payment amount for a loan amount of $10,000 at an annual interest rate of 6% and for 10 years, the output shows (1 row):</p>
-<p>The below screen displays a monthly payment of $111.02 with a total payment of $13,322.46 of which $3,322.46 is the additional interest base on the&nbsp;10-year 6% annual interest on the $10,000 principal.</p>
+<p>The below screenshot displays a monthly payment of $111.02 with a total payment of $13,322.46 of which $3,322.46 is the additional interest base on the&nbsp;10-year 6% annual interest on the $10,000 principal.</p>
 <p><img src="https://michaelip2.github.io/images/2017-03-24 21_26_39-SQLQuery3.sql - DESKTOP-BB2A4CL_SQLEXPRESS.master (DESKTOP-BB2A4CL_Michael (56)).png" /></p>
