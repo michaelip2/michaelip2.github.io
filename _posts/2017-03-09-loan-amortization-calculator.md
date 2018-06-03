@@ -4,7 +4,7 @@ title: "Loan Amortization Calculator"
 date: 2017-03-09
 ---
 
-This stored procedure generates the monthly payments and total payment with interest by taking in three user input parameters: the loan amount, loan term in years, and the annual interest rate.</p>
+This stored procedure generates the monthly payments and total payment with interest by taking in three user input parameters: the loan amount, loan term in years, and the annual interest rate.
 <pre><code>
 CREATE PROCEDURE loanCalculator 
 @amt float, -- principal loan amount
